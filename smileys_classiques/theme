@@ -1,0 +1,32 @@
+Name=Default
+Description=Default smileys
+Icon=smile.png
+Author=Idechix
+
+[default]
+smile.png		:-)	:)
+smile-big.png		:-D	:D
+wink.png		;-)	;)
+tongue.png		:-P	:P	:-p	:p
+neutral.png		:-|	:|
+thinking.png		:-/
+! thinking2.png		:-\
+confused.png		:-S	:-s	:-$
+crying.png		:'(
+sad.png			:-(	:(
+angry.png		x-(	X-(
+shout.png		>:o	>:O
+shock.png		=-O	=-o	:-O	:-o
+shut-mouth.png		:-X	:X
+shy.png			:-]	:]
+embarrassed.png		:-[	:[
+laugh.png		XD
+cool.png		B-)	8-)
+kiss.png		:-*
+love.png		<3
+happy.png		^^
+embarrassed-laugh.png	^^'
+bored.png		-_-
+annoyed.png		-_-'
+big-eyes.png		O_O	o_o
+
